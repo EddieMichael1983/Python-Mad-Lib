@@ -1,6 +1,6 @@
 # MadLib2.py
 
-"After a highly traumatic experience as a soldier in Vietnam, Michael returns home and is greeted by Linda, fiancee of his good friend Nick who went AWOL."
+#  source description of movie modified into a Mad Lib "After a highly traumatic experience as a soldier in Vietnam, Michael returns home and is greeted by Linda, fiancee of his good friend Nick who went AWOL."
 
 user_adjective = input("Give me an adjective: ")
 user_name = input ("Give me a name: ")
